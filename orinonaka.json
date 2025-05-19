@@ -10,7 +10,9 @@
       "volume": "1",
       "last_updated": "1747681761",
       "groups": {
-        "Gaaaa": "https://imgchest.com/p/9rydmbvknyk"
+        "Gaaaa": [
+          "https://imgchest.com/p/9rydmbvknyk"
+        ]
       }
     }
   }

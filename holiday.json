@@ -4,5 +4,445 @@
   "artist": "Pageratta",
   "author": "Pageratta",
   "cover": "https://cdn.imgchest.com/files/7bwckbj2av7.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "January 4th - Kite Flying",
+      "volume": "1",
+      "last_updated": "1750598763",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/yd5ceb3mk64.jpg",
+          "https://cdn.imgchest.com/files/4gdcxn9ml24.png"
+        ]
+      }
+    },
+    "2": {
+      "title": "January 5th - Honest Match",
+      "volume": "1",
+      "last_updated": "1750598809",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/7pjcq6mkmw7.jpg"
+        ]
+      }
+    },
+    "3": {
+      "title": "January 6th - Shaking",
+      "volume": "1",
+      "last_updated": "1750598828",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/7bwckbj2jb7.jpg"
+        ]
+      }
+    },
+    "4": {
+      "title": "January 7th - Gathering Ingredients",
+      "volume": "1",
+      "last_updated": "1750598843",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/4nec85olov4.jpg",
+          "https://cdn.imgchest.com/files/yq9c36avzj4.jpg"
+        ]
+      }
+    },
+    "5": {
+      "title": "January 8th - Bigger Wins",
+      "volume": "1",
+      "last_updated": "1750598862",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/49zc2zkvkxy.jpg"
+        ]
+      }
+    },
+    "6": {
+      "title": "January 9th - Refreshing",
+      "volume": "1",
+      "last_updated": "1750598895",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/yxkcz2xqxr7.jpg"
+        ]
+      }
+    },
+    "7": {
+      "title": "January 10th - Who?",
+      "volume": "1",
+      "last_updated": "1750598912",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/yvdcw69n98y.jpg"
+        ]
+      }
+    },
+    "8": {
+      "title": "January 11th - Salt Day",
+      "volume": "1",
+      "last_updated": "1750598927",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/46acqzvgv57.jpg",
+          "https://cdn.imgchest.com/files/7bwckbj2gb7.png",
+          "https://cdn.imgchest.com/files/4apc5blvlq4.jpg"
+        ]
+      }
+    },
+    "9": {
+      "title": "January 12th - No Thanks",
+      "volume": "1",
+      "last_updated": "1750598953",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/45xcvem8mk7.jpg",
+          "https://cdn.imgchest.com/files/y8xcnpgqgg4.jpg"
+        ]
+      }
+    },
+    "10": {
+      "title": "January 13th - Forgetfulness",
+      "volume": "1",
+      "last_updated": "1750598968",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/4gdcxn9m924.jpg"
+        ]
+      }
+    },
+    "11": {
+      "title": "January 14th - Typical Day",
+      "volume": "1",
+      "last_updated": "1750599022",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/4z9cvd393e7.jpg"
+        ]
+      }
+    },
+    "12": {
+      "title": "January 15th - Clean Hands / Abnormal Fetishes",
+      "volume": "1",
+      "last_updated": "1750599051",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/ye3c2bogo24.jpg",
+          "https://cdn.imgchest.com/files/7w6c2rnqn9y.jpg"
+        ]
+      }
+    },
+    "13": {
+      "title": "January 16th - In Need of Help",
+      "volume": "1",
+      "last_updated": "1750599075",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/739cx35kpd7.jpg"
+        ]
+      }
+    },
+    "14": {
+      "title": "January 17th - Escape",
+      "volume": "1",
+      "last_updated": "1750599098",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/7mmc95gnzx7.jpg"
+        ]
+      }
+    },
+    "15": {
+      "title": "January 18th - Bus Trip",
+      "volume": "1",
+      "last_updated": "1750599115",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/yrgcn6598l4.jpg"
+        ]
+      }
+    },
+    "16": {
+      "title": "January 19th - Dormant Fire Extinguisher",
+      "volume": "1",
+      "last_updated": "1750599130",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/7ogcbvpx8xy.jpg",
+          "https://cdn.imgchest.com/files/7kzcan8xew7.jpg"
+        ]
+      }
+    },
+    "17": {
+      "title": "January 20th - Wrong Choice",
+      "volume": "1",
+      "last_updated": "1750599146",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/y2pck6a59e7.jpg"
+        ]
+      }
+    },
+    "18": {
+      "title": "January 21st - It Just Works",
+      "volume": "1",
+      "last_updated": "1750599200",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/7lxcp63xgq7.jpg"
+        ]
+      }
+    },
+    "19": {
+      "title": "January 22nd - Replica",
+      "volume": "1",
+      "last_updated": "1750599239",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/4jdcvbz6wo4.jpg",
+          "https://cdn.imgchest.com/files/yq9c36av5j4.png"
+        ]
+      }
+    },
+    "20": {
+      "title": "January 23rd - Poof",
+      "volume": "1",
+      "last_updated": "1750599262",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/yd5ceb3mz64.jpg",
+          "https://cdn.imgchest.com/files/yrgcn659kl4.jpg"
+        ]
+      }
+    },
+    "21": {
+      "title": "January 24th - Underground Invasion",
+      "volume": "1",
+      "last_updated": "1750599283",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/7mmc95gnwx7.jpg",
+          "https://cdn.imgchest.com/files/739cx35knd7.jpg"
+        ]
+      }
+    },
+    "22": {
+      "title": "January 25th - Alien Invasion",
+      "volume": "1",
+      "last_updated": "1750599307",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/7w6c2rnq69y.jpg"
+        ]
+      }
+    },
+    "23": {
+      "title": "January 27th - Room for Reflection",
+      "volume": "1",
+      "last_updated": "1750599323",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/4z9cvd39je7.jpg"
+        ]
+      }
+    },
+    "24": {
+      "title": "January 28th - Watch Our For Hackers!",
+      "volume": "1",
+      "last_updated": "1750599342",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/4gdcxn9mw24.jpg",
+          "https://cdn.imgchest.com/files/y8xcnpgqvg4.jpg"
+        ]
+      }
+    },
+    "25": {
+      "title": "January 29th - Cute Is Justice",
+      "volume": "1",
+      "last_updated": "1750599361",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/45xcvem8pk7.jpg"
+        ]
+      }
+    },
+    "26": {
+      "title": "January 30th - Home Restaurant",
+      "volume": "1",
+      "last_updated": "1750599384",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/4apc5blvqq4.jpg"
+        ]
+      }
+    },
+    "27": {
+      "title": "January 31st - Wife's Cooking",
+      "volume": "1",
+      "last_updated": "1750599402",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/7w6c2rnqg9y.jpg"
+        ]
+      }
+    },
+    "28": {
+      "title": "February 1st - Sense of Humor",
+      "volume": "1",
+      "last_updated": "1750599460",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/46acqzvg857.jpg"
+        ]
+      }
+    },
+    "29": {
+      "title": "February 2nd - Luck In",
+      "volume": "1",
+      "last_updated": "1750599482",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/yvdcw69nz8y.jpg"
+        ]
+      }
+    },
+    "30": {
+      "title": "February 3rd -  A Story You Don't Know",
+      "volume": "1",
+      "last_updated": "1750599495",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/yxkcz2xqvr7.jpg",
+          "https://cdn.imgchest.com/files/49zc2zkvexy.jpg"
+        ]
+      }
+    },
+    "31": {
+      "title": "February 4th - Incubation",
+      "volume": "1",
+      "last_updated": "1750599519",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/4nec85olbv4.jpg"
+        ]
+      }
+    },
+    "32": {
+      "title": "February 5th - Game Set / Selfie Smile",
+      "volume": "1",
+      "last_updated": "1750599532",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/7bwckbj23b7.jpg",
+          "https://cdn.imgchest.com/files/7pjcq6mkbw7.jpg"
+        ]
+      }
+    },
+    "33": {
+      "title": "February 6th - Intensity",
+      "volume": "1",
+      "last_updated": "1750599549",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/7ogcbvpxrxy.jpg",
+          "https://cdn.imgchest.com/files/7kzcan8x9w7.jpg"
+        ]
+      }
+    },
+    "34": {
+      "title": "February 7th - Endangered Species",
+      "volume": "1",
+      "last_updated": "1750599589",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/y2pck6a53e7.jpg",
+          "https://cdn.imgchest.com/files/7lxcp63xjq7.png"
+        ]
+      }
+    },
+    "35": {
+      "title": "February 8th - No Objections",
+      "volume": "1",
+      "last_updated": "1750599663",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/4jdcvbz62o4.jpg",
+          "https://cdn.imgchest.com/files/yq9c36avbj4.jpg"
+        ]
+      }
+    },
+    "36": {
+      "title": "February 9th - Pufferfish Day",
+      "volume": "1",
+      "last_updated": "1750599680",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/yd5ceb3m964.jpg",
+          "https://cdn.imgchest.com/files/yrgcn659bl4.jpg"
+        ]
+      }
+    },
+    "37": {
+      "title": "February 10th - One Futon",
+      "volume": "1",
+      "last_updated": "1750599710",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/7mmc95gnqx7.jpg",
+          "https://cdn.imgchest.com/files/739cx35kbd7.jpg"
+        ]
+      }
+    },
+    "38": {
+      "title": "February 11th - Infinite Soba",
+      "volume": "1",
+      "last_updated": "1750599728",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/46acqzvg557.jpg",
+          "https://cdn.imgchest.com/files/yvdcw69ne8y.jpg"
+        ]
+      }
+    },
+    "39": {
+      "title": "February 12th - Underwear Thief",
+      "volume": "1",
+      "last_updated": "1750599767",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/49zc2zkvpxy.jpg"
+        ]
+      }
+    },
+    "40": {
+      "title": "February 13th - Resentment",
+      "volume": "1",
+      "last_updated": "1750599781",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/4nec85oljv4.jpg"
+        ]
+      }
+    },
+    "41": {
+      "title": "February 14th - Brown",
+      "volume": "1",
+      "last_updated": "1750599797",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/7bwckbj2vb7.jpg"
+        ]
+      }
+    },
+    "42": {
+      "title": "February 15th - Hands-on Experience",
+      "volume": "1",
+      "last_updated": "1750599844",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/7pjcq6mk8w7.jpg"
+        ]
+      }
+    }
+  }
 }

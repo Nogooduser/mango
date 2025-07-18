@@ -911,11 +911,22 @@
     },
     "88": {
       "title": "April 1st - Fake World",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1752747895",
       "groups": {
         "Galactic Rolling Dynamite Pancake": [
           "https://cdn.imgchest.com/files/7kzcax9pnp7.jpg"
+        ]
+      }
+    },
+    "89": {
+      "title": "April 2nd - Thoroughness",
+      "volume": "2",
+      "last_updated": "1752830274",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/45xcv8g2re7.jpg",
+          "https://cdn.imgchest.com/files/4apc5vkpe34.jpg"
         ]
       }
     }

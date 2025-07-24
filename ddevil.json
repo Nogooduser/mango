@@ -38,11 +38,19 @@
       }
     },
     "7": {
-      "title": "/proxy/api/imgchest/chapter/ljyqrwzze42",
+      "title": "Positioning!",
       "volume": "1",
       "last_updated": "1753281768",
       "groups": {
         "Galactic Rolling Dynamite Pancake": "/proxy/api/imgchest/chapter/ljyqrwzze42"
+      }
+    },
+    "8": {
+      "title": "Herma's Honesty!",
+      "volume": "1",
+      "last_updated": "1753368111",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": "/proxy/api/imgchest/chapter/o24a85m8w7l"
       }
     }
   }

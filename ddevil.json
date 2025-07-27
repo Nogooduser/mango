@@ -68,6 +68,16 @@
       "groups": {
         "Galactic Rolling Dynamite Pancake": "/proxy/api/imgchest/chapter/ej7mlb3vn4d"
       }
+    },
+    "11": {
+      "title": "A Tailor Made Trap?!",
+      "volume": "2",
+      "last_updated": "1753624826",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "/proxy/api/imgchest/chapter/wl7l2n68p4x"
+        ]
+      }
     }
   }
 }

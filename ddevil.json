@@ -238,6 +238,16 @@
       "groups": {
         "Galactic Rolling Dynamite Pancake": "/proxy/api/imgchest/chapter/m9yx3mde6yq"
       }
+    },
+    "32": {
+      "title": "New Objective",
+      "volume": "4",
+      "last_updated": "1755441797",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "/proxy/api/imgchest/chapter/9p4n83pqw4n"
+        ]
+      }
     }
   }
 }

@@ -263,12 +263,64 @@
         "Galactic Rolling Dynamite Pancake": "/proxy/api/imgchest/chapter/o24aj3epe4l"
       }
     },
+    "35": {
+      "title": "A Menancing Magical Tool: The Deviloupe!",
+      "volume": "4",
+      "last_updated": "1755697890",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "/proxy/api/imgchest/chapter/qe4gwjdzb7j"
+        ]
+      }
+    },
     "34.5": {
       "title": "Hiatus Manga - Psallus and the Succubus, a Fortuitous Meeting!",
       "volume": "4",
       "last_updated": "1755614037",
       "groups": {
         "Galactic Rolling Dynamite Pancake": "/proxy/api/imgchest/chapter/92493vbz84n"
+      }
+    },
+    "14.5": {
+      "title": "Hiatus Illustration",
+      "volume": "2",
+      "last_updated": "1755697707",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/yq9c3lgn8b4.jpg"
+        ]
+      }
+    },
+    "17.5": {
+      "title": "Hiatus Manga",
+      "volume": "2",
+      "last_updated": "1755697763",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/7bwckpxowj7.jpg"
+        ]
+      }
+    },
+    "24.5": {
+      "title": "Hiatus Manga - Trial and Error",
+      "volume": "3",
+      "last_updated": "1755697784",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/7bwckpxowj7.jpg",
+          "https://cdn.imgchest.com/files/7kzcak533o7.jpg"
+        ]
+      }
+    },
+    "27.5": {
+      "title": "Hiatus Manga - Herma and the Mandragora",
+      "volume": "3",
+      "last_updated": "1755697832",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/4jdcven9b34.jpg",
+          "https://cdn.imgchest.com/files/yq9c3lgn6l4.jpg"
+        ]
       }
     }
   }

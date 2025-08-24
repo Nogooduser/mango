@@ -6,11 +6,19 @@
   "cover": "https://cdn.imgchest.com/files/45xcv2qr237.jpg",
   "chapters": {
     "1": {
-      "title": "",
+      "title": "Chapter 1",
       "volume": "1",
       "last_updated": "1755993046",
       "groups": {
         "Galactic Rolling Dynamite Pancake": "/proxy/api/imgchest/chapter/5xy228dx3yl"
+      }
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "last_updated": "1756075328",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": "/proxy/api/imgchest/chapter/xny8m5reo7b"
       }
     }
   }

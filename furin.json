@@ -68,6 +68,16 @@
       "groups": {
         "Galactic Rolling Dynamite Pancake": "/proxy/api/imgchest/chapter/5xy22qmk3yl"
       }
+    },
+    "9": {
+      "title": "Chapter 9",
+      "volume": "2",
+      "last_updated": "1756653764",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "/proxy/api/imgchest/chapter/ej7m8emz9yd"
+        ]
+      }
     }
   }
 }

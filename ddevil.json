@@ -281,6 +281,14 @@
         "Galactic Rolling Dynamite Pancake": "/proxy/api/imgchest/chapter/ej7m8wqnayd"
       }
     },
+    "37": {
+      "title": "The Villainess' End",
+      "volume": "4",
+      "last_updated": "1757104058",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": "/proxy/api/imgchest/chapter/9p4n8k58w4n"
+      }
+    },
     "34.5": {
       "title": "Hiatus Manga - Psallus and the Succubus, a Fortuitous Meeting!",
       "volume": "4",
@@ -328,6 +336,16 @@
         "Galactic Rolling Dynamite Pancake": [
           "https://cdn.imgchest.com/files/4jdcven9b34.jpg",
           "https://cdn.imgchest.com/files/yq9c3lgn6l4.jpg"
+        ]
+      }
+    },
+    "37.5": {
+      "title": "Season 5 Announcement",
+      "volume": "4",
+      "last_updated": "1757104112",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/65cc7c66a674.jpg"
         ]
       }
     }

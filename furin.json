@@ -224,11 +224,27 @@
       }
     },
     "28": {
-      "title": "28",
+      "title": "Chapter 28",
       "volume": "4",
       "last_updated": "1758293879",
       "groups": {
         "Galactic Rolling Dynamite Pancake": "/proxy/api/imgchest/chapter/o24ajenvd4l"
+      }
+    },
+    "29": {
+      "title": "Chapter 29",
+      "volume": "4",
+      "last_updated": "1758465281",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": "/proxy/api/imgchest/chapter/o24ajenvd4l"
+      }
+    },
+    "30": {
+      "title": "Chapter 30",
+      "volume": "4",
+      "last_updated": "1758465369",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": "/proxy/api/imgchest/chapter/ljyq2o6loy2"
       }
     }
   }

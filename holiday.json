@@ -1826,7 +1826,7 @@
     },
     "179": {
       "title": "July 1st - Tandem Escape",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1760616001",
       "groups": {
         "Galactic Rolling Dynamite Pancake": [
@@ -1836,7 +1836,7 @@
     },
     "180": {
       "title": "July 2nd - 3000 Times the Intensity",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1760697879",
       "groups": {
         "Galactic Rolling Dynamite Pancake": [
@@ -1846,7 +1846,7 @@
     },
     "181": {
       "title": "July 3rd - Corn Included",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1760785843",
       "groups": {
         "Galactic Rolling Dynamite Pancake": [
@@ -1856,11 +1856,21 @@
     },
     "182": {
       "title": "July 4th - Treasure Waterfall",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1760870597",
       "groups": {
         "Galactic Rolling Dynamite Pancake": [
           "https://cdn.imgchest.com/files/bd63a8c773e0.jpg"
+        ]
+      }
+    },
+    "183": {
+      "title": "July 5th - A Story About Tenacity",
+      "volume": "3",
+      "last_updated": "1760955427",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/dc8b8b717e02.jpg"
         ]
       }
     }

@@ -1891,6 +1891,16 @@
       "groups": {
         "Galactic Rolling Dynamite Pancake": "/proxy/api/imgchest/chapter/9p4nv8gebyn"
       }
+    },
+    "186": {
+      "title": "July 8th - Rope Strength",
+      "volume": "3",
+      "last_updated": "1761217559",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/2745545e395a.jpg"
+        ]
+      }
     }
   }
 }

@@ -1929,6 +1929,16 @@
       "groups": {
         "Galactic Rolling Dynamite Pancake": "/proxy/api/imgchest/chapter/m9yx996q3yq"
       }
+    },
+    "190": {
+      "title": "July 12th - Postcard Maker",
+      "volume": "3",
+      "last_updated": "1761565631",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/0f0eabc66b3d.jpg"
+        ]
+      }
     }
   }
 }

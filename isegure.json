@@ -135,7 +135,7 @@
     },
     "17": {
       "title": "Cheat",
-      "volume": "",
+      "volume": "5",
       "last_updated": "1752676189",
       "groups": {
         "Galactic Rolling Dynamite Pancake": "/proxy/api/imgchest/chapter/wl7l2j3dp4x"
@@ -143,10 +143,18 @@
     },
     "18": {
       "title": "Reincarnator Asshole!!",
-      "volume": "",
+      "volume": "5",
       "last_updated": "1752760789",
       "groups": {
         "Galactic Rolling Dynamite Pancake": "/proxy/api/imgchest/chapter/ej7mlqpea4d"
+      }
+    },
+    "19": {
+      "title": "Hero",
+      "volume": "5",
+      "last_updated": "1761929185",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": "/proxy/api/imgchest/chapter/m9yx9qgeqyq"
       }
     }
   }

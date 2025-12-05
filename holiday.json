@@ -2302,6 +2302,16 @@
       "groups": {
         "Galactic Rolling Dynamite Pancake": "/proxy/api/imgchest/chapter/m9yxn29ap7q"
       }
+    },
+    "228": {
+      "title": "August 19th - Revival",
+      "volume": "3",
+      "last_updated": "1764942488",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/59059a596e8f.jpg"
+        ]
+      }
     }
   }
 }

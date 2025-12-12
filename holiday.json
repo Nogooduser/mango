@@ -2368,6 +2368,16 @@
       "groups": {
         "Galactic Rolling Dynamite Pancake": "/proxy/api/imgchest/chapter/dl7pne6n6yo"
       }
+    },
+    "235": {
+      "title": "August 26th - Giant Puzzle",
+      "volume": "3",
+      "last_updated": "1765546353",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/d5635ceda747.jpg"
+        ]
+      }
     }
   }
 }

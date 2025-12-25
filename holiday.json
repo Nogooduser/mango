@@ -2486,6 +2486,16 @@
       "groups": {
         "Galactic Rolling Dynamite Pancake": "/proxy/api/imgchest/chapter/lqyelz3dk4d"
       }
+    },
+    "247": {
+      "title": "September 7th - Extinct Species",
+      "volume": "3",
+      "last_updated": "1766666250",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/580804e35163.jpg"
+        ]
+      }
     }
   }
 }

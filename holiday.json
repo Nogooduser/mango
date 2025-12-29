@@ -2524,6 +2524,16 @@
       "groups": {
         "Galactic Rolling Dynamite Pancake": "/proxy/api/imgchest/chapter/lqyelwk8k4d"
       }
+    },
+    "251": {
+      "title": "September 11th - Leering",
+      "volume": "3",
+      "last_updated": "1767013035",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/6eda7da9291d.jpg"
+        ]
+      }
     }
   }
 }

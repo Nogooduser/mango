@@ -2552,6 +2552,16 @@
       "groups": {
         "Galactic Rolling Dynamite Pancake": "/proxy/api/imgchest/chapter/wl7lwp3oo4x"
       }
+    },
+    "254": {
+      "title": "September 14th - Vomit",
+      "volume": "3",
+      "last_updated": "1767446558",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/4b6dc1b06d9e.jpg"
+        ]
+      }
     }
   }
 }

@@ -2710,6 +2710,16 @@
       "groups": {
         "Galactic Rolling Dynamite Pancake": "/proxy/api/imgchest/chapter/ljyq5q9exy2"
       }
+    },
+    "270": {
+      "title": "September 30th - Return",
+      "volume": "3",
+      "last_updated": "1768825345",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/2f1f5aca2dae.jpg"
+        ]
+      }
     }
   }
 }

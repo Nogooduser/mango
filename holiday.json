@@ -2756,6 +2756,16 @@
       "groups": {
         "Galactic Rolling Dynamite Pancake": "/proxy/api/imgchest/chapter/ne7bnv8rg75"
       }
+    },
+    "275": {
+      "title": "October 5th - Holiday Children",
+      "volume": "3",
+      "last_updated": "1769258530",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/d5496813d18f.jpg"
+        ]
+      }
     }
   }
 }

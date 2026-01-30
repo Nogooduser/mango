@@ -2814,6 +2814,16 @@
       "groups": {
         "Galactic Rolling Dynamite Pancake": "imgchest.com/p/9rydn6jwn4k"
       }
+    },
+    "281": {
+      "title": "October 17th",
+      "volume": "3",
+      "last_updated": "1769773278",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/cf2f14a79712.jpg"
+        ]
+      }
     }
   }
 }

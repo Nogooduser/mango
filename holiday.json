@@ -3529,12 +3529,33 @@
       }
     },
     "352": {
-      "title": "The Mask",
+      "title": "December 27th - The Mask",
       "volume": "3",
       "last_updated": "1776079292",
       "groups": {
         "Galactic Rolling Dynamite Pancake": [
           "https://cdn.imgchest.com/files/7a06b9d08d31.jpg"
+        ]
+      }
+    },
+    "353": {
+      "title": "December 28th - Measurements",
+      "volume": "3",
+      "last_updated": "1776252651",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/2158e2d031a4.jpg",
+          "https://cdn.imgchest.com/files/3a379a7b49b7.jpg"
+        ]
+      }
+    },
+    "354": {
+      "title": "December 29th - Messy",
+      "volume": "3",
+      "last_updated": "1776252689",
+      "groups": {
+        "Galactic Rolling Dynamite Pancake": [
+          "https://cdn.imgchest.com/files/54709df94c14.jpg"
         ]
       }
     }
